@@ -1,0 +1,9 @@
+hippo==6.9.0
+PyPDF2==1.27.9
+reportlab==3.6.13
+requests_toolbelt==0.9.1
+Click==8.0.1
+psycopg2-binary==2.9.5
+XlsxWriter==3.1.1
+pandas==1.5.3
+openpyxl==3.0.10
